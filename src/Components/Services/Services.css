@@ -1,0 +1,25 @@
+.icon-box {
+  width: 70px;
+  height: 70px;
+  min-width: 70px;
+  border-radius: 20px;
+}
+
+.purple-bg { background-color: #f0eeff; }
+.green-bg  { background-color: #eef9e3; }
+.blue-bg   { background-color: #e9f6ff; }
+.orange-bg { background-color: #fff0ed; }
+
+
+.text-purple { color: #7459e9; }
+.text-green  { color: #80d03b; }
+.text-blue   { color: #52adff; }
+.text-orange { color: #ff7d61; }
+
+.service-card-container {
+  padding: 10px;
+}
+.container-main{border-bottom: 1px solid #C7C7C7;}
+@media screen and (max-width:992px) {
+    .container-main{min-width: 100%!important;}
+}

@@ -1,0 +1,59 @@
+.hero-section {
+  padding: 80px 0;
+  background: linear-gradient(135deg, #f0f8ff 0%, #ffffff 100%);
+  overflow: hidden;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #000;
+}
+
+.text-highlight {
+  color: #1592cf; /* Matches your logo blue */
+}
+
+.hero-subtitle {
+  color: #6c757d;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  max-width: 500px;
+}
+
+.btn-primary-custom {
+  background-color: #1592cf;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  border-radius: 8px;
+  font-weight: 600;
+  border: 2px solid #1592cf;
+}
+
+.btn-outline-custom {
+  border: 2px solid #1592cf;
+  color: #1592cf;
+  padding: 12px 30px;
+  border-radius: 8px;
+  background: transparent;
+  font-weight: 600;
+}
+
+.hero-image {
+  max-height: 500px;
+  z-index: 2;
+}
+.btn-no-hover2:hover{
+  background-color: #1592cf !important; 
+  color: #fff !important;
+  border: 2px solid #1592cf;
+  transition: none; 
+}
+.btn-no-hover1:hover{
+  background-color: transparent!important; 
+  color: #1592cf;
+  border: 2px solid #1592cf;
+  transition: none; 
+}

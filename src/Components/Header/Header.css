@@ -1,0 +1,29 @@
+
+
+:root {
+  --brand-blue: #1592cf;
+  --indicator-teal: #43d8c9;
+}
+
+.logo-text {
+  color: var(--brand-blue);
+  font-size: 24px;
+  text-decoration: none;
+}
+
+
+.nav-link-home {
+  color: var(--brand-blue) !important;
+}
+
+.btn-contact {
+  background-color: var(--brand-blue);
+  border-radius: 8px;
+  border: none;
+  transition: opacity 0.2s ease;
+}
+
+.btn-contact:hover {
+  background-color: #1177a8; 
+  color: white;
+}
