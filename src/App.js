@@ -3,6 +3,7 @@ import Header from './Components/Header/Header';
 import Hero from './Components/Hero/Hero';
 import Services from './Components/Services/Services';
 import Intro from './Components/Intro/Intro';
+import Feature from './Components/Feature/Feature';
 function App() {
   return (
     <div className='main-app'>
@@ -10,6 +11,7 @@ function App() {
       <Hero />
       <Services/>
       <Intro/>
+      <Feature/>
     </div>
   ); 
 }

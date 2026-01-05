@@ -4,7 +4,7 @@ import './Intro.css';
 const SectionIntro = () => {
   return (
     <section className="section-intro py-5">
-      <div className="container text-center">
+      <div className="container text-center  py-4">
         <div className="row justify-content-center">
           <div className="col-lg-8">
             <h2 className="intro-title fw-bold">

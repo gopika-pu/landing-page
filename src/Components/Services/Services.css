@@ -23,3 +23,6 @@
 @media screen and (max-width:992px) {
     .container-main{min-width: 100%!important;}
 }
+@media screen and (min-width:992px) {
+    .container-main .srv-block{max-width: 90%;margin: 0 auto;}
+}

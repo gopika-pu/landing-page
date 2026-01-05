@@ -1,0 +1,50 @@
+.feature-section {
+  position: relative;
+  overflow: hidden;
+  padding: 80px 0;
+}
+
+.badge-icon {
+  width: 50px;
+  height: 50px;
+  background-color: #10d4ba; 
+  border-radius: 50%;
+  color: white;
+  font-size: 1.5rem;
+}
+
+.feature-title {
+  font-size: 2.8rem;
+  line-height: 1.2;
+  color: #222;
+}
+
+.text-blue {
+  color: #1592cf;
+}
+
+.underline-text {
+  border-bottom: 4px solid #1592cf;
+  display: inline-block;
+  line-height: 0.8;
+}
+
+.feature-desc {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  max-width: 500px;
+}
+
+.mockup-img {
+  max-width: 90%;
+}
+
+.smaller {
+  font-size: 0.75rem;
+}
+
+
+@media (max-width: 991px) {
+  .feature-title { font-size: 2.2rem; }
+  .feature-desc { margin: 0 auto; }
+}
