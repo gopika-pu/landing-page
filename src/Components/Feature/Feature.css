@@ -4,7 +4,7 @@
   padding: 80px 0;
 }
 
-.badge-icon {
+.badge-icon1, .badge-icon2{
   width: 50px;
   height: 50px;
   background-color: #10d4ba; 
@@ -48,3 +48,5 @@
   .feature-title { font-size: 2.2rem; }
   .feature-desc { margin: 0 auto; }
 }
+
+.badge-icon2{background-color: #1592cf!important;}

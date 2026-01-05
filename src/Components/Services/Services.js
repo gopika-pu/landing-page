@@ -5,7 +5,7 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 const Services = () => {
   return (
     <div className="container-main py-5">
-      <div className="row g-4 justify-content-center srv-block py-5">
+      <div className="row g-4 justify-content-center srv-block">
         
      
         <div className="col-12 col-sm-6 col-md-3">
