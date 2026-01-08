@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="row align-items-center">
           
         
-          <div className="col-12 col-lg-6 py-5 pt-0">
+          <div className="col-12 col-lg-6 py-5 pt-0 title-container">
             <h1 className="hero-title">
               Experienced <span className="text-highlight">mobile and web</span> applications and website builders measuring.
             </h1>
@@ -25,7 +25,7 @@ const Hero = () => {
           </div>
 
      
-          <div className="col-12 col-lg-6 text-center position-relative">
+          <div className="col-12 col-lg-6 text-center position-relative img-block">
          
             <img 
               src="\Hero-image.png" 
